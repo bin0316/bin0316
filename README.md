@@ -8,8 +8,6 @@
       <td><img src="https://github.com/bin0316/bin0316/blob/main/icons/icon_solidity.png?raw=true" width="200"></td>
       <td><img src="https://github.com/bin0316/bin0316/blob/main/icons/icon_react.png?raw=true" width="200"></td>
       <td><img src="https://github.com/bin0316/bin0316/blob/main/icons/node.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/bin0316/bin0316/blob/main/icons/thegraph.png?raw=true" width="200"></td>
-
            
   </tr>  
 </table>
@@ -26,17 +24,17 @@
     <tr>
         <td>
             <a href="https://lunachownft.com/">
-                <img src="https://github.com/bin0316/bin0316/blob/main/images/lunachow.jpg?raw=true" width="200">
+                <img src="https://github.com/bin0316/bin0316/blob/main/images/lunachow.jpg?raw=true" width="300">
             </a>
         </td>        
         <td>
             <a href="https://nft.pixelpimp.io/">
-                <img src="https://github.com/bin0316/bin0316/blob/main/images/pixelpimp.jpg?raw=true" width="200">
+                <img src="https://github.com/bin0316/bin0316/blob/main/images/pixelpimp.jpg?raw=true" width="300">
             </a>
         </td> 
         <td>
             <a href="https://marketofzion.com/">
-                <img src="https://github.com/bin0316/bin0316/blob/main/images/marketofzion.jpg?raw=true" width="200">
+                <img src="https://github.com/bin0316/bin0316/blob/main/images/marketofzion.jpg?raw=true" width="300">
             </a>
         </td>     
     </tr>
