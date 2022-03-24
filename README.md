@@ -1,3 +1,18 @@
+Hi, I'm 🥇[Bin](https://t.me/bin_0316/)🥇, I am a Senior Blockchain Developer.
+
+#### I have good experiende in 
+- NFT Marketplace & NFT Mint Engine.
+- PancakeSwap, GooseDeFi, PantherSwap.
+- Token Bridge, Block Explorer.
+- Smart contracts.
+- Decentralized Exchanges with TradingView.
+
+
+### Connect with me:
+
+- 💬 Telegram : [@bin_0316](https://t.me/bin_0316)
+- 📧 Email : hulala07@outlook.com
+
 ### **_Skills_**
 <table>
   <tr>
@@ -102,11 +117,7 @@
     </tr>  
 </table>
 
-#### I am a blockchain developer in senior level.
-- NFT Marketplace & NFT Mint Engine.
-- PancakeSwap, GooseDeFi, PantherSwap.
-- Token Bridge, Block Explorer.
-- Smart contracts.
-- Decentralized Exchanges with TradingView.
+| <a href="https://github.com/bin0316?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bin0316&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/bin0316?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin0316&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| ------------- | ------------- |
 
 
