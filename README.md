@@ -117,7 +117,7 @@
     </tr>  
 </table>
 
-| <a href="https://github.com/bin0316?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kroim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/bin0316?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroim&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| <a href="https://github.com/bin0316?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kroim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/bin0316?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin0316&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- |
 
 
