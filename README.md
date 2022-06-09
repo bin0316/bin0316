@@ -1,6 +1,6 @@
 ### Hi, I'm 🥇[Bin](https://t.me/bin_0316/)🥇, I am a Senior Blockchain Developer.
 
-#### I have good experiende in 
+#### I have good experience in 
 - NFT Marketplace & NFT Mint Engine.
 - PancakeSwap, GooseDeFi, PantherSwap.
 - Token Bridge, Block Explorer.
