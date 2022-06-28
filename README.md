@@ -12,7 +12,7 @@
 
 - 💬 Telegram : [@bin_0316](https://t.me/bin_0316)
 - 📧 Email : tengyaobin@outlook.com
-- ❑ Telegram : [Teng YaoBin](https://www.linkedin.com/in/tengyaobin/)
+- ❑ Linkedin : [Teng YaoBin](https://www.linkedin.com/in/tengyaobin/)
 
 ### **_Skills_**
 <table>
