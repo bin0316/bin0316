@@ -11,7 +11,8 @@
 ### Connect with me:
 
 - 💬 Telegram : [@bin_0316](https://t.me/bin_0316)
-- 📧 Email : hulala07@outlook.com
+- 📧 Email : tengyaobin@outlook.com
+- ❑ Telegram : [Teng YaoBin](https://www.linkedin.com/in/tengyaobin/)
 
 ### **_Skills_**
 <table>
