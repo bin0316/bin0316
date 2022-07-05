@@ -12,7 +12,6 @@
 
 - 💬 Telegram : [@bin_0316](https://t.me/bin_0316)
 - 📧 Email : yaobin0316@outlook.com
-- ❑ Linkedin : [Teng YaoBin](https://www.linkedin.com/in/yaobin0316/)
 
 ### **_Skills_**
 <table>
