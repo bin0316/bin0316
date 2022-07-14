@@ -11,7 +11,7 @@
 ### Connect with me:
 
 - 💬 Telegram : [@bin_0316](https://t.me/bin_0316)
-- 📧 Email : yaobin0316@outlook.com
+- 📧 Email : hulala07@outlook.com
 
 ### **_Skills_**
 <table>
